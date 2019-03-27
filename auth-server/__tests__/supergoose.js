@@ -49,4 +49,4 @@ describe('supergoose', () => {
   it('is super', () => {
     expect(true).toBeTruthy();
   });
-});s
+});
